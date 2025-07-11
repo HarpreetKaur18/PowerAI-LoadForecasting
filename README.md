@@ -5,12 +5,6 @@ This project creates synthetic datasets simulating electric load, solar, and win
 
 ---
 
-## 📸 Screentshot
-
-<img width="1169" height="318" alt="Area Chart" src="https://github.com/user-attachments/assets/877913e1-85cd-4a82-a4a8-f212008f5b55" />
-
----
-
 ## 🎯 Purpose
 - To understand power system load and renewable energy variability.
 - To practice data manipulation and visualization skills.
@@ -43,6 +37,21 @@ You’ll visualize:
 
 ---
 
+## 📊 Sample Output
+- Load vs. Solar/Wind Generation (Line Chart + Area Chart)
+- Net Load Profile (Load minus Renewable Generation)
+
+<img width="1151" height="547" alt="Difference" src="https://github.com/user-attachments/assets/d514f3ca-5dd3-4de3-86df-301daad52c3e" />
+
+<img width="1168" height="564" alt="Net Load" src="https://github.com/user-attachments/assets/a7fd762e-3e47-4001-b87d-9880f40b65c8" />
+
+---
+
+## 💡 Insights
+- Solar generation peaks midday, while wind power is more variable and random throughout the day.
+- Net load shows a typical evening peak after solar generation declines, a common pattern in power grids.
+
+---
 
 ## 🙋‍♀️ Made By
 
